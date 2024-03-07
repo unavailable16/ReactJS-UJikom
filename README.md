@@ -12,7 +12,7 @@ Make sure you have Node.js and npm installed on your device.
 git clone https://github.com/unavailable16/ReactJS-UJikom.git
 ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory (optional) :
 
 ```bash
 cd ReactJsUjikom
