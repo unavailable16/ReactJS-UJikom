@@ -1,0 +1,121 @@
+.search-bar {
+  position: absolute;
+  right: 30%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+  width: 40%;
+}
+
+.search-bar input[type="text"] {
+  width: calc(100% - 40px);
+  padding: 8px;
+  border: none;
+  border-radius: 360px;
+  background: #fff;
+  color: black;
+}
+
+.search-bar button {
+  border-radius: 360px;
+}
+
+.whole1 {
+  margin-inline: 10px;
+  border-radius: 10px;
+  border: 1px solid white;
+  box-shadow: 0 0 5px white;
+  backdrop-filter: blur(5px);
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: 10px;
+  height: 400px;
+  width: 340px;
+  justify-content: center;
+}
+
+.awikwok123 {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.formbanh {
+  background: none;
+  border: none;
+  display: flex;
+  flex-direction: row;
+}
+
+
+  .search-bar {
+    position: absolute;
+    right: 30%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    width: 40%;
+  }
+  
+  .search-bar input[type="text"] {
+    width: calc(100% - 40px);
+    padding: 8px;
+    border: none;
+    border-radius: 360px;
+    background: #fff;
+    color: black;
+  }
+  
+  .search-bar button {
+    border-radius: 360px;
+  }
+  
+  .whole1 {
+    margin-inline: 10px;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0 0 5px white;
+    backdrop-filter: blur(5px);
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 10px;
+    height: 400px;
+    width: 340px;
+    justify-content: center;
+  }
+  
+  .awikwok123 {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .formbanh {
+    background: none;
+    border: none;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .scroll-to-top {
+    position: fixed;
+    width: fit-content;
+    height: fit-content;
+    bottom:  0;
+  }
+  
+  .collapse{
+    overflow-x:hidden ;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0 0 5px white;
+    backdrop-filter: blur(5px);
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+    width: 110px;
+  }

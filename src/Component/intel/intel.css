@@ -1,0 +1,18 @@
+.Intel{
+    background-image: url("https://pbs.twimg.com/media/FKModDDX0AII0IH.jpg:large");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+.containerintel {
+    position: relative;
+    z-index: 1; /* Set a higher z-index for the container */
+}
+
+.intel-form {
+    position: relative;
+    z-index: 2; /* Ensure the form appears above the background */
+}

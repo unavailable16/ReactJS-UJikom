@@ -1,0 +1,22 @@
+.nv {
+    background-image: url("https://storage-asset.msi.com/global/picture/image/feature/vga/NVIDIA/RTX3090-SUPRIM-TI/newi/Banner-Background-Image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    z-index: 0;
+}
+
+.containernv {
+    position: relative;
+    z-index: 1; 
+}
+
+.nv-form {
+    position: relative;
+    z-index: 2; 
+}
+
+

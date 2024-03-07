@@ -1,0 +1,88 @@
+#pagecard {
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+
+}
+
+.img {
+    width: 90%;
+    height: 50%;
+    margin-top: 5px;
+}
+
+.kard {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.kard p,
+h3 {
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: white;
+    margin-top: 0;
+}
+
+.whole {
+    height: 450px;
+    margin-inline: 10px;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0 0 5px white;
+    backdrop-filter: blur(5px);
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 10px;
+    width: 340px;
+}
+
+#card {
+    border: 1px solid white;
+    box-shadow: 0 0 5px white;
+    margin-inline: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    backdrop-filter: blur(5px);
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.section {
+    margin-inline: 5px;
+}
+
+.section-dark h2,
+p {
+    color: white;
+}
+
+.section-dark {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+#pagecard1 {
+    background-color: white;
+    color: white;
+}
+
+.center-page {
+    background: none;
+    border: none;
+    z-index: 1;
+}
+
+form {
+    z-index: 1;
+}
+
+.buttongroup {
+    position: fixed;
+    bottom: 1%;
+}
+
+.sortbutton{
+    width: fit-content;
+}

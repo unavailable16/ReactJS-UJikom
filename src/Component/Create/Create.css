@@ -1,0 +1,19 @@
+.container-create {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0 0 5px white;
+}
+
+.container-create label {
+    color: white;
+}
+
+.container-create input,
+select {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 0 0 5px white;
+    color: white;
+}

@@ -1,0 +1,249 @@
+{
+  "User": [
+    {
+      "id": "1",
+      "username": "admin",
+      "tipe": "admin",
+      "pass": "123"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "tipe": "user",
+      "pass": "123"
+    },
+    {
+      "id": "3",
+      "username": "ahdhan",
+      "pass": "123",
+      "tipe": "user"
+    }
+  ],
+  "Gpuamd": [
+    {
+      "id": "1",
+      "nama": "AMD Radeon Rx 7950XTX",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3941-front.small.jpg",
+      "cu": "96",
+      "bf": "Up to 2500mhz",
+      "core": "6144",
+      "tu": "384",
+      "tc": "58 Billion",
+      "vr": "24GB GDDR6",
+      "bw": "384 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "2",
+      "nama": "AMD Radeon Rx 7900XT",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3912-front.small.jpg",
+      "cu": "84",
+      "bf": "Up to 2400mhz",
+      "core": "5376",
+      "tu": "336",
+      "tc": "58 Billion",
+      "vr": "20GB GDDR6",
+      "bw": "320 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "3",
+      "nama": "AMD Radeon Rx 7800XT",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3839-front.small.jpg",
+      "cu": "60",
+      "bf": "Up to 2430mhz",
+      "core": "3840",
+      "tu": "240",
+      "tc": "58 Billion",
+      "vr": "16GB GDDR6",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "4",
+      "nama": "AMD Radeon Rx 7700XT",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3911-front.small.jpg",
+      "cu": "54",
+      "bf": "Up to 2544mhz",
+      "core": "3456",
+      "tu": "216",
+      "tc": "28.1 Billion",
+      "vr": "12GB GDDR6",
+      "bw": "192 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "5",
+      "nama": "AMD Radeon Rx 7700",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3911-front.small.jpg",
+      "cu": "48",
+      "bf": "Up to 2600mhz",
+      "core": "3072",
+      "tu": "192",
+      "tc": "28.1 Billion",
+      "vr": "12GB GDDR6",
+      "bw": "192 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "6",
+      "nama": "AMD Radeon Rx 7600XT",
+      "image": "https://tpucdn.com/gpu-specs/images/c/4190-front.small.jpg",
+      "cu": "32",
+      "bf": "Up to 2755mhz",
+      "core": "2048",
+      "tu": "128",
+      "tc": "13.3 Billion",
+      "vr": "8GB GDDR6",
+      "bw": "128 bit",
+      "pc": "PCIe 4.0 x8"
+    },
+    {
+      "id": "7",
+      "nama": "amd rx 8900",
+      "image": "data:image/jpeg;base64,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p0yuUAlSSAFBv0Rz65uk0jmNP3RUfvYqoflRV9SZLo+6XBDeriG/ipj0pzocQNJp+7Hho3So3fUcfltLHBew3DaRDJhUJGxYs9v85M2WIGOnTVRZVCgbAAADwEwV8BRc3elTY9bKpPmRJcQK6jwTCr8OHojupoP0kxKCr8KqO4ATLEBERAREQEREBERAREQEREBERAREQOee+HFlcNSTKCHqak3uuVSQVsQLm9tbixOl7EcdzTtnvV4Q1bBmoh6WHJqEciliKniB0v4SOc4pg8O9V1popZ3IVVHNjy7O+Sq83kvhNFXr0kd8iu4UvlzZSdF6NxfpWG+l762tJXtP7P1cDWFKoQ2ZVZXUEKwOjAX5q1x5HS8jcApM+Jw6qpZjVp6DU2Dgk9wAJ8IH6I4Fw7/p8PSoZs32aKua2XNYam1zbuuZrlT3c4Vqju1TEHO7uVzqFDOxZgMqBrXPMmbpEWS8kuGqp7AcOBuaLE2UG9WrrlAUEgPYmyjlyk2n7I8PX/2lE/Mgb815exGJ4ZqHh+F0E+CjST5URfQSYBPsSoREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERECo9qcM9TB4inTXM70qiqunSLKRbXTW85F7C+z+KTiWHNTD1aaoajMzI6qB9m6jpEZTdmUaHnO6RA5d76iMmGFulmqEG3IBQRfvK+Uge5fCqa2JcqCyLTCsRqucvmt1XyDynUuI8Mo4hQteklRQbgOoax2uLjQ2O4mHhPA8Phgww9Jaecgta+pF7aknQXNhsLmBaREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERED//2Q==",
+      "cu": "12",
+      "bf": "12100mhz",
+      "core": "232",
+      "tu": "213231",
+      "tc": "22 m",
+      "vr": "1123",
+      "bw": "23434",
+      "pc": "32``1"
+    }
+  ],
+  "Gpunvidia": [
+    {
+      "nama": "Nvidia Geforce RTX 4090 ti TI",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3889-front.small.jpg",
+      "cu": "128",
+      "bf": "Up to 2520mhz",
+      "core": "16384",
+      "tu": "512",
+      "tc": "76.3 Billion",
+      "vr": "24GB GDDR6X",
+      "bw": "384 bit",
+      "pc": "PCIe 4.0 x16",
+      "id": "1"
+    },
+    {
+      "nama": "Nvidia Geforce RTX 4080 Super",
+      "image": "https://tpucdn.com/gpu-specs/images/c/4182-front.small.jpg",
+      "cu": "80",
+      "bf": "Up to 2295mhz",
+      "core": "10240",
+      "tu": "320",
+      "tc": "45.9 Billion",
+      "vr": "16GB GDDR6X",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "nama": "Nvidia Geforce RTX 4080",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3888-front.small.jpg",
+      "cu": "76",
+      "bf": "Up to 2505mhz",
+      "core": "9728",
+      "tu": "304",
+      "tc": "45.9 Billion",
+      "vr": "16GB GDDR6X",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "4",
+      "nama": "Nvidia Geforce RTX 4070 Ti Super",
+      "image": "https://tpucdn.com/gpu-specs/images/c/4187-front.small.jpg",
+      "cu": "66",
+      "bf": "Up to 2610mhz",
+      "core": "8448",
+      "tu": "264",
+      "tc": "45.9 Billion",
+      "vr": "16GB GDDR6X",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    }
+  ],
+  "Gpuintel": [
+    {
+      "id": "2",
+      "nama": "Intel ARC A770",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3914-front.small.jpg",
+      "cu": "512",
+      "bf": "Up to 2400mhz",
+      "core": "4096",
+      "tu": "256",
+      "tc": "21.7 Billion",
+      "vr": "16GB GDDR6",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "3",
+      "nama": "Intel ARC A750",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3929-front.small.jpg",
+      "cu": "448",
+      "bf": "Up to 2400mhz",
+      "core": "3584",
+      "tu": "224",
+      "tc": "21.7 Billion",
+      "vr": "8GB GDDR6",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "4",
+      "nama": "Intel ARC A580",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3928-front.small.jpg",
+      "cu": "384",
+      "bf": "Up to 2000mhz",
+      "core": "3072",
+      "tu": "192",
+      "tc": "21.7 Billion",
+      "vr": "8GB GDDR6",
+      "bw": "256 bit",
+      "pc": "PCIe 4.0 x16"
+    },
+    {
+      "id": "5",
+      "nama": "Intel ARC A380",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3913-front.small.jpg",
+      "cu": "128",
+      "bf": "Up to 2050mhz",
+      "core": "1024",
+      "tu": "64",
+      "tc": "7.2 Billion",
+      "vr": "6GB GDDR6",
+      "bw": "96 bit",
+      "pc": "PCIe 4.0 x8"
+    },
+    {
+      "id": "6",
+      "nama": "Intel ARC A350",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3931-front.small.jpg",
+      "cu": "96",
+      "bf": "Up to 2000mhz",
+      "core": "768",
+      "tu": "48",
+      "tc": "7.2 Billion",
+      "vr": "4GB GDDR6",
+      "bw": "64 bit",
+      "pc": "PCIe 4.0 x8"
+    },
+    {
+      "nama": "Intel ARC A310",
+      "image": "https://tpucdn.com/gpu-specs/images/c/3930-front.small.jpg",
+      "cu": "96",
+      "bf": "Up to 1750mhz",
+      "core": "768",
+      "tu": "32",
+      "tc": "7.2 Billion",
+      "vr": "4GB GDDR6",
+      "bw": "64 bit",
+      "pc": "PCIe 4.0 x8",
+      "id": "7"
+    }
+  ]
+}
