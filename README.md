@@ -9,7 +9,7 @@ Make sure you have Node.js and npm installed on your device.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/unavailable16/ReactJsUjikom.git
+git clone https://github.com/unavailable16/ReactJS-UJikom.git
 ```
 
 2. Navigate to the project directory:
